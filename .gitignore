@@ -1,0 +1,5 @@
+/.idea/*
+/nginx/log/*
+/front/node_modules/*
+/front/.nuxt/*
+/db/data/*
